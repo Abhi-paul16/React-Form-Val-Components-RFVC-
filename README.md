@@ -56,5 +56,3 @@ We welcome contributions from the community! If you find a bug, have a feature r
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this template based on the specific features and structure of your library. Include detailed instructions on usage, contribution guidelines, and any other information that developers might find useful.
