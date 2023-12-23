@@ -22,7 +22,7 @@ RFVC (React Form Validation Components) is an open-source library that provides 
 
 - **Consistent Design:** Ensure a consistent and professional look and feel across your applications by using standardized form components.
 
-## Getting Started
+## Getting Started (coming soon)
 
 To get started with RFVC in your React project, follow these simple steps:
 
