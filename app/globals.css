@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+ 
+}
+
+.navbar {
+  /* margin: 1rem; */
+
+/* From https://css.glass */
+background: rgba(28, 28, 28, 0.91);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(11.3px);
+-webkit-backdrop-filter: blur(11.3px);
+border: 1px solid rgba(28, 28, 28, 0.3);
+  width: 90%;
+  outline: none;
+  margin: 10px auto;
+}
