@@ -20,8 +20,8 @@ RFVC (React Form Validation Components) is an open-source library that provides 
 
 ## version
 
-- **Node Version:** =  v20.10.0
-- **Next Version** =  14
+- **Node Version:** 20.10.0
+- **Next Version:** 14.0.4
 
 
 ## Getting Started (coming soon)
