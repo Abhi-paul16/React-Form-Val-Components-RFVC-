@@ -28,24 +28,21 @@ RFVC (React Form Validation Components) is an open-source library that provides 
 
 To get started with RFVC in your React project, follow these simple steps:
 
-1. Install RFVC as a dependency:
+1. git clone :
 
    ```bash
    npm install rfvc
    ```
 
-2. Import the desired form components into your project:
+2. npm i 
 
    ```jsx
    import { RFVCTextField, RFVCSelect } from 'rfvc';
    ```
 
-3. Use the components in your forms:
+3. Start contributing
 
-   ```jsx
-   <RFVCTextField label="Username" required />
-   <RFVCSelect label="Country" options={['USA', 'Canada', 'UK']} required />
-   ```
+ 
 
 For more detailed examples and documentation, please refer to our [Documentation](docs/README.md).
 
