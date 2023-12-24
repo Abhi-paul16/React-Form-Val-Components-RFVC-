@@ -1,8 +1,8 @@
 # RFVC - React Form Validation Components
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/RFVC)](https://github.com/yourusername/RFVC/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/RFVC)](https://github.com/yourusername/RFVC/issues](https://github.com/Abhi-paul16/React-Form-Val-Components-RFVC-/issues))
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/RFVC)](https://github.com/Abhi-paul16/React-Form-Val-Components-RFVC-/stargazers)
+ 
+[![GitHub issues](https://img.shields.io/github/issues/Abhi-paul16/React-Form-Val-Components-RFVC-/)](https://github.com/Abhi-paul16/React-Form-Val-Components-RFVC-/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Abhi-paul16/React-Form-Val-Components-RFVC-)](https://github.com/Abhi-paul16/React-Form-Val-Components-RFVC-/stargazers)
 
 ## Overview
 
